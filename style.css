@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(5, 5, 5);
+}
+.input{
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+.ac{
+    padding:16px 46px;
+}
+.head{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: antiquewhite;
+}
+.st{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 12px;
+}
+.style{
+    margin-left: 15px;
+    padding: 17px;
+    border-radius: 21px;
+    color: aliceblue;
+    background-color: rgb(122, 118, 118);
+    font-size: large;
+}
+.zero{
+padding:16px 46px;
+}
+.sign{
+    background-color: orange;
+    font-size: large;
+}
+.size{
+    padding: 12px 21px;
+    border-radius: 17px;;
+}
+.st input{
+    margin-top: 110px;
+    padding: 17px;
+    font-size: 1rem;
+    border-radius: 14px;
+}
